@@ -1,2 +1,2 @@
- Year Up ( Pluralsight ) - Simple calculator using DOM
+## Year Up ( Pluralsight ) - Simple calculator using DOM
  
